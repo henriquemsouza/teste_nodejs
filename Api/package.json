@@ -1,0 +1,17 @@
+{
+    "name": "node-api",
+    "author": "Henrique Martins",
+    "license": "ISC",
+    "version": "1.0.0",
+    "description": "restful api-Henrique ",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "body-parser": "~1.0.1",
+        "express": "~4.0.0",
+        "mongoose": "*",
+        "request": "^2.74.0"
+    }
+}
